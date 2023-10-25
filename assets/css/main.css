@@ -127,9 +127,6 @@ video {
   vertical-align: middle;
 }
 
-img {
-  max-width: 100%;
-}
 
 h1,
 h2,
@@ -2223,9 +2220,9 @@ ol {
 }
 
 .hero-area .hero-image img {
-  width: 500px;
-  height: 400px;
-  border-radius: 7px;
+  width: 400px;
+  height: 600px;
+  
 }
 
 /*======================================
